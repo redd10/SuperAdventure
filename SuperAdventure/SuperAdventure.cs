@@ -36,5 +36,15 @@ namespace SuperAdventure
         {
 
         }
+
+        private void cboWeapons_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnNorth_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
